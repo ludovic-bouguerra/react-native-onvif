@@ -57,7 +57,7 @@
     "util": "~0.10.3",
     "react-native-tcp": "^3.2.1",
     "vm-browserify": "0.0.4",
-    "node-onvif": "^0.1.7",
+    "node-onvif": "ludovic-bouguerra/node-onvif",
     "rn-nodeify": "^10.0.1"
   }
 }
